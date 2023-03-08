@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-You can see the Greenshop project through this link [Greenshop](https://greenshopuzb.netlify.app/home).
+You can see the Greenshop project through this link [Greenshop](https://greenshopuzb.netlify.app).
 
 ## Available Scripts
 
