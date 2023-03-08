@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You can see the Greenshop project through this link [Greenshop](https://greenshopuzb.netlify.app/home).
 
 ## Available Scripts
 
